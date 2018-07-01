@@ -1,0 +1,23 @@
+{
+    "cats": [
+      {
+        "name" :"Predator",
+        "favFoods" : ["wet food", "dry food", "<strong>any</strong>food"],
+        "birthYear" : 2018,
+        "photo" : "img/cat1.jpg"
+      },
+      {
+        "name" :"Happy",
+        "birthYear" : 2009,
+        "photo" : "img/cat2.jpeg"
+        
+      },
+      {
+        "name" :"Evil boss",
+        "favFoods" : ["tuna", "catnip", "salmon"],
+        "birthYear" : 2013,
+        "photo" : "img/cat3.jpg"
+        
+      }
+    ]
+  }
